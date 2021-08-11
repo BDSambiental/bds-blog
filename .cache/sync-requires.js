@@ -8,7 +8,6 @@ exports.components = {
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/pages/404.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/pages/blog.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/pages/index.js"))),
-  "component---src-templates-blog-post-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/templates/blog-post.js")))
+  "component---src-pages-index-js": hot(preferDefault(require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/pages/index.js")))
 }
 

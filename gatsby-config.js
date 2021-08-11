@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `BDS Ambiental Blog`,
     author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `A Bolson e De Santi Consultoria Ambiental tem como objetivo direcionar nossos clientes para um desenvolvimento sustentável, assessorando e oferecendo soluções ambientais voltadas a sua necessidade.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `gatsbyjs`,
@@ -47,7 +47,7 @@ module.exports = {
         index: ["title", "rawBody"],
         store: ["id", "slug", "date", "title", "excerpt", "description"],
         normalizer: ({ data }) =>
-          data.allMdx.nodes.map(node => ({
+          data.allMdx.nodes.map((node) => ({
             id: node.id,
             slug: node.fields.slug,
             rawBody: node.rawBody,
@@ -131,4 +131,4 @@ module.exports = {
       },
     },
   ],
-}
+};
