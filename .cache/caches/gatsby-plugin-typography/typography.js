@@ -1,0 +1,1 @@
+module.exports = require("/Users/pietrobellunopilau/Documents/Projetos/bds-blog/src/utils/typography")
