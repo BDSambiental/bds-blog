@@ -4,7 +4,7 @@ date: 2021-08-10T18:26:04.453Z
 title: "Ibama divulga boletins de auditagem no CTF/APP "
 description: Com o objetivo de dar mais transparência ao trabalho realizado são
   publicados boletins trimestrais que divulgarão informações sobre auditagens
-  realizadas
+  realizadas.
 ---
 <!--StartFragment-->
 
