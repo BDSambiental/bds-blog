@@ -2,8 +2,8 @@
 path: https://www.omniaonline.com.br/lancado-plano-integrado-para-combater-incendios-e-punir-crimes-ambientais/
 date: 2021-07-27T18:16:04.199Z
 title: Lançado plano integrado para combater incêndios e punir crimes ambientais
-description: Plano que prevê a atuação de quase seis mil profissionais em 11
-  estados do Cerrado, Pantanal e Amazônia
+description: O plano prevê a atuação de quase seis mil profissionais em 11
+  estados do Cerrado, Pantanal e Amazônia.
 ---
 <!--StartFragment-->
 
