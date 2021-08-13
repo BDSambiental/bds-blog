@@ -2,8 +2,9 @@
 path: "https://www.omniaonline.com.br/ibama-lanca-pesquisa-de-opiniao-sobre-o-rapp/ "
 date: 2021-08-04T00:37:24.614Z
 title: "Ibama lança pesquisa de opinião sobre o RAPP "
-description: Pesquisa de opinião sobre o Relatório Anual de Atividades
-  Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais (RAPP).
+description: Ibama lança pesquisa de opinião sobre o Relatório Anual de
+  Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais
+  (RAPP).
 ---
 <!--StartFragment-->
 
