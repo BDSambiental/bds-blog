@@ -8,7 +8,7 @@ description: Com o objetivo de dar mais transparência ao trabalho realizado sã
 ---
 <!--StartFragment-->
 
-![](../assets/incencio.jpeg)
+![](../assets/ibama.png)
 
 Com o objetivo de dar mais transparência ao trabalho realizado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), são publicados boletins trimestrais que divulgarão informações sobre auditagens realizadas no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e/ou Utilizadoras de Recursos Naturais (CTF/APP). 
 
