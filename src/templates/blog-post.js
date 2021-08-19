@@ -19,20 +19,22 @@ class BlogPostTemplate extends React.Component {
           class="banner"
           style={{ position: "relative", height: "350px" }}
         >
-          <img
-            style={{
-              position: "absolute",
-              transform: "translate(-50%, -50%)",
-              top: "50%",
-              left: "50%",
-              filter: "brightness(0) invert(1)",
-              zIndex: "99",
-              width: "250px",
-            }}
-            class="bannerLogo"
-            src="https://www.bdsambiental.com.br/img/logo.png"
-            alt="Logo BDS Ambiental"
-          />
+          <Link to={`/blog/`}>
+            <img
+              style={{
+                position: "absolute",
+                transform: "translate(-50%, -50%)",
+                top: "50%",
+                left: "50%",
+                filter: "brightness(0) invert(1)",
+                zIndex: "99",
+                width: "250px",
+              }}
+              class="bannerLogo"
+              src="https://www.bdsambiental.com.br/img/logo.png"
+              alt="Logo BDS Ambiental"
+            />
+          </Link>
           <div
             class="overlay"
             style={{
