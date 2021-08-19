@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
               width: "250px",
             }}
             class="bannerLogo"
-            src="../../images/logo.png"
+            src="https://www.bdsambiental.com.br/img/logo.png"
             alt="Logo BDS Ambiental"
           />
           <div
@@ -47,7 +47,7 @@ class BlogPostTemplate extends React.Component {
           <img
             style={{ width: `100%`, objectFit: `cover`, height: `100%` }}
             class="bannerImage"
-            src="../../images/banner.jpg"
+            src="https://www.bdsambiental.com.br/img/banner3.jpg"
             alt="Imagem Banner"
           />
         </section>
