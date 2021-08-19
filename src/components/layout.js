@@ -1,15 +1,15 @@
-import React from "react"
-import { Link } from "gatsby"
-import styled from "styled-components"
+import React from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography";
 
 class Layout extends React.Component {
   render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    const blogPath = `${__PATH_PREFIX__}/blog/`
-    let header
+    const { location, title, children } = this.props;
+    const rootPath = `${__PATH_PREFIX__}/`;
+    const blogPath = `${__PATH_PREFIX__}/blog/`;
+    let header;
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
       header = (
@@ -29,10 +29,10 @@ class Layout extends React.Component {
             }}
             to={location.pathname === blogPath ? `/blog/` : `/`}
           >
-            {title}
+            {/* {title} */}
           </Link>
         </h1>
-      )
+      );
     } else {
       header = (
         <h3
@@ -52,7 +52,7 @@ class Layout extends React.Component {
             {title}
           </Link>
         </h3>
-      )
+      );
     }
     return (
       <Wrapper>
@@ -74,17 +74,17 @@ class Layout extends React.Component {
           All Rights Reserved
         </Footer>
       </Wrapper>
-    )
+    );
   }
 }
 
 const Wrapper = styled.div`
   min-height: 100vh;
-`
+`;
 
 const Footer = styled.footer`
   text-align: center;
   margin: 24px;
-`
+`;
 
-export default Layout
+export default Layout;
