@@ -1,7 +1,7 @@
 ---
 path: https://www.omniaonline.com.br/sociedade-civil-pode-participar-de-consulta-publica-sobre-plano-para-agricultura-de-baixo-carbono/
 date: 2021-09-01T18:11:02.108Z
-title: consulta pública sobre plano para agricultura de baixo carbono
+title: Consulta pública sobre plano para agricultura de baixo carbono
 description: Sociedade civil pode participar de consulta pública sobre plano
   para agricultura de baixo carbono
 ---
