@@ -1,6 +1,6 @@
 ---
 path: MMA assina acordo com cinco setores para reduzir emissão de carbono
-date: 2022-06-25T16:46:29.921Z
+date: 2022-05-25T16:46:29.921Z
 title: MMA assina acordo com cinco setores para reduzir emissão de carbono
 description: MMA assina acordo com cinco setores para reduzir emissão de carbono
 ---
