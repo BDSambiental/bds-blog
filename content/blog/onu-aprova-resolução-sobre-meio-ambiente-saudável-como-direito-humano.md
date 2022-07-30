@@ -1,6 +1,6 @@
 ---
 path: ONU aprova resolução sobre meio ambiente saudável como direito humano
-date: 2022-07-30T18:34:31.493Z
+date: 2022-07-29T18:34:31.493Z
 title: ONU aprova resolução sobre meio ambiente saudável como direito humano
 description: ONU aprova resolução sobre meio ambiente saudável como direito humano
 ---
