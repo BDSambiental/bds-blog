@@ -1,6 +1,6 @@
 ---
 path: "Mercado de carbono: entenda o passo a passo de sua construção"
-date: 2022-08-10T23:05:27.727Z
+date: 2022-08-04T23:05:27.727Z
 title: "Mercado de carbono: entenda o passo a passo de sua construção"
 description: "Mercado de carbono: entenda o passo a passo de sua construção"
 ---
