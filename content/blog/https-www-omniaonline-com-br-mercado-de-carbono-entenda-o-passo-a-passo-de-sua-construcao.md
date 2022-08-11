@@ -1,8 +1,8 @@
 ---
-path: https://www.omniaonline.com.br/mercado-de-carbono-entenda-o-passo-a-passo-de-sua-construcao/
+path: Por que tratar a responsabilidade ambiental das empresas?
 date: 2022-08-04T00:38:36.406Z
-title: https://www.omniaonline.com.br/mercado-de-carbono-entenda-o-passo-a-passo-de-sua-construcao/
-description: https://www.omniaonline.com.br/mercado-de-carbono-entenda-o-passo-a-passo-de-sua-construcao/
+title: Por que tratar a responsabilidade ambiental das empresas?
+description: Por que tratar a responsabilidade ambiental das empresas?
 ---
 <!--StartFragment-->
 
